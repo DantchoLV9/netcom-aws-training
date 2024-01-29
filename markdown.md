@@ -2,7 +2,11 @@
 
 ## This is a subtitle
 
+Here is some **bold** text and some *italic* text.
+
 ---
+
+## Lists
 
 1. Item one
 2. Item two
@@ -14,6 +18,10 @@
 
 ---
 
+## Link
+
 [This is a link to Google](https://google.com)
+
+## Cat Image/Gif
 
 ![Random cat picture](https://cataas.com/cat/gif)
