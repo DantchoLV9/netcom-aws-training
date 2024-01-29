@@ -16,4 +16,4 @@
 
 [This is a link to Google](https://google.com)
 
-![Random cat picture](https://cataas.com/cat)
+![Random cat picture](https://cataas.com/cat/gif)
