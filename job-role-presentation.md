@@ -44,8 +44,8 @@
 ## Do you think that the role requires a college education?
 
 - Respondents said:
-    - 36% need masters
-    - 32% need bachelors
+  - 36% need masters
+  - 32% need bachelors
 
 ## Which other activities or tasks do you think that you should do to achieve the role?
 
