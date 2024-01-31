@@ -1,7 +1,9 @@
 # Think Big
 
 Good use of resources - He used AI to overcome a very complex issue
+
 Great idea - A very creative idea
+
 Innovative - Use of a new technology to solve an issue
 
 ## Idea 1:
